@@ -1,4 +1,4 @@
-See BLOG URL.
+See http://www.databasesandlife.com/spring-loadallproperties-wrong-order/
 
 To run:
 
